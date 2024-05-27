@@ -9,4 +9,5 @@ Key steps involve:
 - scVI integration
 - scHPL label harmonization
 - K-nearest neighbours label transferring
-![suppfig9](https://github.com/chenjirongjiang/MidMAP_Integration/assets/70864155/34bec225-c512-4215-9d57-7365152ab93f)
+
+![suppfig9](https://github.com/chenjirongjiang/MidMAP_Integration/assets/70864155/1f837c86-792b-487f-9519-0cdcc1d23e5c)
