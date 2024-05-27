@@ -10,4 +10,4 @@ Key steps involve:
 - scHPL label harmonization
 - K-nearest neighbours label transferring
 
-![suppfig9](https://github.com/chenjirongjiang/MidMAP_Integration/assets/70864155/d114501f-6c9e-473a-b119-1005853c3d3e)
+![suppfig9](https://github.com/chenjirongjiang/MidMAP_Integration/assets/70864155/0c5950db-4d38-4ed8-846b-4c268e2a261e)
