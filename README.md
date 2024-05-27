@@ -7,3 +7,5 @@ This repository includes code for the data processing and integration of the sin
 Key steps involve:
 - Preprocessing of atlases into AnnData objects, including quality control and normalisation.
 - scVI integration
+- scHPL label harmonization
+- K-nearest neighbours label transferring
